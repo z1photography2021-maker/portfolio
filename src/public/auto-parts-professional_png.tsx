@@ -1,0 +1,1 @@
+/* This file would contain your uploaded automotive parts image */
